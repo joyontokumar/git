@@ -17,3 +17,11 @@ data += `<div class="datashow">
 </div>`;
 
 document.getElementById("message").innerHTML = data;
+
+// settime out
+
+window.onload = function () {
+    setTimeout(() => {
+        console.log("this is settime out function");
+    }, 2000);
+}
