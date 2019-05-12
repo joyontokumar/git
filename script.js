@@ -1,14 +1,14 @@
 // show data
 
 const myobj = {
-    name: "joyonto",
-    age: 23,
-    city: "nilphamari",
-    address: "kundupkur"
-}
+  name: "joyonto",
+  age: 23,
+  city: "nilphamari",
+  address: "kundupkur"
+};
 
 // show data html
-let data = '';
+let data = "";
 data += `<div class="datashow">
     <h3>${myobj.name}</h3>
     <h4>${myobj.age}</h4>
@@ -20,8 +20,9 @@ document.getElementById("message").innerHTML = data;
 
 // settime out
 
-window.onload = function () {
-    setTimeout(() => {
-        console.log("this is settime out function");
-    }, 2000);
-}
+window.onload = function() {
+  document.body.style.backgroundColor = "orange";
+  setTimeout(() => {
+    console.log("this is settime out function");
+  }, 2000);
+};
