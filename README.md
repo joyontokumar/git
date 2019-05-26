@@ -1,5 +1,5 @@
 
-<img scr="https://www.google.com/search?q=git+image&sxsrf=qwu&tbm=isch&source=iu&ictx=1&fir=1NjBxgxCw3zbIM%253A%252CUdjsSQq8H86p4M%252C_&vet=1&usg=AI4_-kQUFdw9GScCQDGaJJynadrKFp0OQQ&sa=X&ved=2ahUKEwiFtqLh9LjiAhWGuo8KHYIEB_8Q9QEwCXoECAcQOA#imgrc=R-fOafyzLrdaiM:&vet=1">
+<img scr="git-logo.jpg">
 <b>Basic Setup</b>
 ==================================================
 <p>git config --global user.name "joyonto"</p>
