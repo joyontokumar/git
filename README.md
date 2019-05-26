@@ -55,7 +55,7 @@ want to go this commit you want to checkout . if you want to create a branch jus
 <p>git checkout -b  develop</p>
 
 
-<b>Develop Branch Work to Master Brach Passing</b>
+<b>Develop Branch Work to Master Branch Passing</b>
 ================================================================
 <h6>when i work on develop branch and try to do something my expriment .suppose my expriment is riht and i want to pass this expriment my master branch then type the command :</h6>
 
