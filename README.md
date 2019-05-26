@@ -1,5 +1,4 @@
 
-<img scr="git-logo.jpg">
 <b>Basic Setup</b>
 ==================================================
 <p>git config --global user.name "joyonto"</p>
