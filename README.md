@@ -23,7 +23,7 @@
 <p>git add index.html (if you want to add a fixed file to your local repository)</p>
 <p>git add -A ( Another command added all file to your local git repository)</p>
 <p>git commit -m "message here what you add" ( this command use what you do or what you add your local git repository)</p>
-<p>gi remore add origin ( github repository link here) => that means your local repositoy added your server repository</p
+<p>gi remote add origin ( github repository link here) => that means your local repositoy added your server repository</p
 <p>git push origin master  (my local file go to the server <p>
  
  
