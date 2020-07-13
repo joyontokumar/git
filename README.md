@@ -19,9 +19,9 @@
   
 <b>Local to Server</b>
 ====================================================
-<p>git add .   ( this command use to added all file your local git repository)</p>
+<p>git add .   ( this command use to added all of files to your local git repository)</p>
 <p>git add index.html (if you want to add a fixed file to your local repository)</p>
-<p>git add -A ( Another command added all file to your local git repository)</p>
+<p>git add -A ( Another command added all of files to your local git repository)</p>
 <p>git commit -m "message here what you add" ( this command use what you do or what you add your local git repository)</p>
 <p>gi remote add origin ( github repository link here) => that means your local repositoy added your server repository</p
 <p>git push origin master  (my local file go to the server <p>
@@ -42,7 +42,7 @@
 ===================================================
 
 <h6>master is the default branch in github . branch is actually all of my commit but those commit has a unique name. if you
-want to go this commit you want to checkout . if you want to create a branch just try to expriment a logic is right or wrong. if my expreiment is true then i push the expriment my master branch . that way another branch is uses.</h6>
+want to go this commit you want to checkout . if you want to create a branch just try to expriment a logic is right or wrong. if my expreiment is true then i push the expriment my master branch . that why another branch is uses.</h6>
 
 <h6>if you want to create a branch. then type this commnd : </h6>
 <p>git branch develop(then type branch name -> here is the branch name -> develop)</p>
@@ -57,7 +57,7 @@ want to go this commit you want to checkout . if you want to create a branch jus
 
 <b>Develop Branch Work to Master Branch Passing</b>
 ================================================================
-<h6>when i work on develop branch and try to do something my expriment .suppose my expriment is riht and i want to pass this expriment my master branch then type the command :</h6>
+<h6>when i work on develop branch and try to do something my expriment .suppose my expriment is right and i want to pass this expriment my master branch then type the command :</h6>
 
 <p>git checkout master</p>
 
@@ -75,7 +75,7 @@ want to go this commit you want to checkout . if you want to create a branch jus
 
 <b>Git Pull</p>
 ========================================================
-<h6>when many developer are working in one project then need to git pull command .  when any developer are pushing his work in server, it's not automatically go to another local developer repository. what way we need to git pull. </h6>
+<h6>when many developer are working in one project then need to git pull command .  when any developer are pushing his work in server, it's not automatically go to another local developer repository. what why we need to git pull. </h6>
 <p>git pull origin master</p>
 <p>Be carefull when you pull before you need to add , commit your work</p>
 
